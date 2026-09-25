@@ -1,4 +1,4 @@
-use mahadb;
+USE collegedb;
 ALTER TABLE student58
 ADD email VARCHAR(30);
 ALTER TABLE student58
